@@ -1,0 +1,46 @@
+{
+    "projectItemsArray": 
+    [
+        {
+            "projectName": "Banana", 
+            "projectUrl": "http://",
+            "projectType": "sample",
+            "projectScope": "4",
+            "projectThumb": "project_banana_thumb.jpg",
+            "projectCountriesArray": [
+                "AG",
+                "MX",
+                "AF",
+                "US"
+            ]
+        },
+        {
+            "projectName": "Apple", 
+            "projectUrl": "http://",
+            "projectType": "sample",
+            "projectScope": "1",
+            "projectThumb": "project_apple_thumb.jpg",
+            "projectCountriesArray": [
+                "AG",
+                "GB",
+                "AF",
+                "US"
+            ]
+        },
+        {
+            "projectName": "Pear", 
+            "projectUrl": "http://",
+            "projectType": "sample",
+            "projectScope": "2",
+            "projectThumb": "project_pear_thumb.jpg",
+            "projectCountriesArray": [
+                "AG",
+                "GB",
+                "MX",
+                "AF"
+            ]
+        }
+        
+    ]
+}
+

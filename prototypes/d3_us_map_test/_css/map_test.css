@@ -19,3 +19,15 @@
   stroke-linecap: round;
   pointer-events: none;
 }
+
+#project-box {
+    width:200px;
+    height:150px;
+    background-color:white;
+    box-shadow:5px 5px 5px rgba(0,0,0,0.5);
+    padding:20px;
+    position:absolute;
+    top:100px;
+    left:100px;
+    display:none;
+}
